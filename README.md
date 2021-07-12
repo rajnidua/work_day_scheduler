@@ -8,16 +8,14 @@ You are presented with a work day scheduler that displays hourly time blocks in 
 
 rows are displayed in three different colors for past,present and future time blocks relative to the current hour.
 
+if you are opening calender on the same day, your tasks are retained but if you open it on next day you will be presented with a blank scheduler.
+
 user can enter tasks in the time blocks.
 
 when user presses save button, the data is saved in the local storage as an object with id and text as its elements
 
-when user refreshes the page, the data persists.
+user can change the data by deleting the current text and entering a new text and pressing save button
 
-user can change the data by deleting the current text and entering a new text.
-
-user then saves the altered data by a double click on save button.
-
-single click on altered data removes it from local storage and the next click add the changed data in the local storage.
+all the tasks and time are stored in local storage along with the stored date.
 
 live app link : https://rajnidua.github.io/work_day_scheduler/
