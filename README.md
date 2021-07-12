@@ -19,3 +19,7 @@ user can change the data by deleting the current text and entering a new text an
 all the tasks and time are stored in local storage along with the stored date.
 
 live app link : https://rajnidua.github.io/work_day_scheduler/
+
+Screenshots :
+assets/images/work_day_schedular_screenshot1.PNG
+assets/images/work_day_schedular_screenshot2.PNG
