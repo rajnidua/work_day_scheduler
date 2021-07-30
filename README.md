@@ -1,5 +1,6 @@
-```+work_day_scheduler```
-
+``` diff
++work_day_scheduler
+```
 
 Save your tasks by hour, all past, present and future tasks are displayed in different colors
 
@@ -19,9 +20,13 @@ user can change the data by deleting the current text and entering a new text an
 
 all the tasks and time are stored in local storage as objects.
 
-```+live app link :```
+``` diff
++live app link :
+```
  https://rajnidua.github.io/work_day_scheduler/
 
-```+Screenshots :```
-![](assets/images/work_day_schedular.jpeg)
-![](assets/images/work_day_schedular_scheduler1.PNG)
+``` diff 
++Screenshots :
+```
+![full screen web capture](assets/images/work_day_scheduler.jpeg)
+![](assets/images/work_day_scheduler1.PNG)
