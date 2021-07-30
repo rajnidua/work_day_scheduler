@@ -8,6 +8,8 @@ Your are presented with a work day scheduler with the "current day" displayed at
 
 You are presented with a work day scheduler that displays hourly time blocks in the form of rows.
 
+All of these rows are built dynamically through javascript.
+
 rows are displayed in three different colors for past,present and future time blocks relative to the current hour.
 
 if you are opening calender on the same day, your tasks are retained but if you open it on next day you will be presented with a new blank scheduler to plan your day.
