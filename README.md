@@ -29,4 +29,4 @@ all the tasks and time are stored in local storage as objects.
 +Screenshots :
 ```
 ![full screen web capture](assets/images/work_day_scheduler.jpeg)
-![](assets/images/work_day_scheduler1.PNG)
+
