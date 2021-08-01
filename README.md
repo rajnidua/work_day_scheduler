@@ -30,3 +30,9 @@ all the tasks and time are stored in local storage as objects.
 ```
 ![full screen web capture](assets/images/work_day_scheduler.jpeg)
 
+## Lisence & copyright
+
+&copy;  Rajni Dua
+
+Licensed under the [MIT License](LICENSE)
+
