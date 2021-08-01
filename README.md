@@ -32,6 +32,9 @@ all the tasks and time are stored in local storage as objects.
 ```
 ![full screen web capture](assets/images/work_day_scheduler.jpeg)
 
+## Tools and Technologies
+JQuery, MomentJS, Javascript, HTML CSS
+
 ## Lisence & copyright
 
 &copy;  Rajni Dua
